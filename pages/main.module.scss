@@ -1,0 +1,19 @@
+.container {
+  widows: 100vw;
+  height: auto;
+  min-height: 100vh;
+  background-color: #0070f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .title {
+    color: whitesmoke;
+  }
+}
+
+.con2 {
+  .title {
+    color: red;
+  }
+}
